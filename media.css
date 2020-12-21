@@ -1,0 +1,33 @@
+/* extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px)
+{
+    .t-center{
+        text-align: center;
+    }
+    .menu ul li{
+        padding: 0 0; 
+    }
+}
+/* small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+	.t-center{
+        text-align: center;
+    }
+    .menu ul li{
+        padding: 0 0; 
+    }
+}
+
+/* medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px)
+{
+	.t-center{
+        text-align: center;
+    }
+    .menu ul li{
+        padding: 0 0; 
+    }
+}
+
+
